@@ -9,15 +9,9 @@
   color: white;
   display: flex;
   justify-content: center;
-  padding-top: 50%;
   font-size: 26px;
 }
 
-.zigus {
-  align-items: center;
-  display: flex;
-  justify-content: center;
-}
 p {
   font-size: 12px;
 }
